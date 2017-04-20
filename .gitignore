@@ -1,0 +1,22 @@
+# These are generated when we run the build
+/generated*/
+.idea
+*.h
+*.cpp
+*.o
+*.iml
+*.im24
+*.swp
+*.out
+/bin/
+target
+
+# sbt run folder
+/test_run_dir/
+
+# Eclipse files
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/

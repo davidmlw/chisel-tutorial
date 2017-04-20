@@ -1,0 +1,4 @@
+
+chisel-tutorial-cn: tutorial/tutorial-cn.tex
+	mkdir -p pdf
+	cd tutorial && xelatex -output-directory=../pdf $(notdir $<)
