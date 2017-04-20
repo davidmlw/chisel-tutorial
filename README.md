@@ -1,4 +1,3 @@
-=======
 Chisel Tutorials (Release branch)
 ================
 
